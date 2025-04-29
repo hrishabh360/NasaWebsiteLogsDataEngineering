@@ -2,3 +2,4 @@
 access_log_Jul95
 aws_credentials.json
 *.jpg
+./document
