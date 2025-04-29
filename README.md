@@ -26,7 +26,7 @@ The end-to-end distributed architecture showcases scalable, fault-tolerant desig
 
 ## 📈 Project Workflow Diagram
 
-![Project Workflow](path/to/your/project_workflow_diagram.png)
+![Project Workflow](project_diagram.png)
 
 *Figure: End-to-end data pipeline from ingestion to visualization.*
 
